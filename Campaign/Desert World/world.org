@@ -1,0 +1,26 @@
+* Generations
+ In a hundred years a family tree spans 5-7 generations, it is not
+ unusual to bear 3rd child at 16 years old.
+
+** Births, childhood
+ Giving birth in the harsh conditions is not without risk there is a
+ 5% chance to give stillbirth (1 on 1d20, source CDC data for year
+ 1923 in US, adjusted). In addition to that small children are more likely
+ to succumb to illness or neglect (Constitution save DC 10 for every year
+ before 5th, roll 1d12 for final month). It still is not guaranteed to survive until puberty
+ (Constitution save DC 5 for every year of life before 14th, roll 1d12
+ for final month).
+
+ Even mothers are not spared, they risk a 3% chance they won't survive
+ a childbirth. An infant without mother cannot survive.
+
+ A happy human family where the fate spares everyone will have 4d4
+ children with mother at 1d6 + 28.
+
+** Gradual adaptation
+ When creating a character, determine generation in which it is born
+ (1d6 + 8) generation, unless character's background states lower
+ number. A generation born after the 10th spending least 4 hours a day at
+ least 80% of all days its life in Severe Heat can produce offspring
+ has a chance to become native to the environment and obtain the Heat
+ Endurance Feat. 
